@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MohanaManikantaRapolu
-- 👀 I’m interested in Embedde systems (Embedded firmware engineer)
-- 🌱 I’m currently learning ... new things in the IOT domain, embedded domain aswell
+- 👀 I’m a software Engineer, Competitive programmer
+- 🌱 Specks about Python, Java, C#
 - 📫 How to reach me :- manikantarapolu2000@gmail.com
 
 <!---
