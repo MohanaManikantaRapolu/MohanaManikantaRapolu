@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MohanaManikantaRapolu
 - 👀 I’m a software Engineer, Competitive programmer
-- 🌱 Specks about Python, Java, C#
+- 🌱 Speacks about Python, Java, C#
 - 📫 How to reach me :- manikantarapolu2000@gmail.com
 
 <!---
