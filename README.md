@@ -33,9 +33,9 @@ You can click the Preview link to take a look at your changes.
 <a href="https://twitter.com/mohan_rapolu_25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohan_rapolu_25" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mohana-manikanta-rapolu-969165176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohana-manikanta-rapolu-969165176" height="30" width="40" /></a>
 <a href="https://instagram.com/mohan_manikanta_rapolu_1507" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohan_manikanta_rapolu_1507" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mohana manikanta rapolu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mohana manikanta rapolu" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/mohana manikanta rapolu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Mohana Manikanta Rapolu" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/manikantarapolu1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="manikantarapolu1" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/manikantarapolu2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="manikantarapolu2000" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/manikantarapolu2000" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@manikantarapolu2000" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
