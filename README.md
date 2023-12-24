@@ -19,15 +19,14 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://twitter.com/mohan_rapolu_25" target="blank"><img src="https://img.shields.io/twitter/follow/mohan_rapolu_25?logo=twitter&style=for-the-badge" alt="mohan_rapolu_25" /></a> </p>
 
-- 🔭 I’m currently working in **Infosys as System Engineer**
 
-- 🌱 I’m currently learning **Automation, Java, Selenium**
 
-- 👯 I’m looking to collaborate on **Python,Java,C#,Selenium**
+- 👯 I’m looking to collaborate on **Python,Design verification, SV, UVM, IP & SOC Verification**
 
-- 💬 Ask me about **Python,Java,C#**
+- 💬 Ask me about **Python,Design verification, SV, UVM, IP & SOC Verification**
 
 - 📫 How to reach me **manikantarapolu2000@gmail.com**
+**mohanamanikantarapolu@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
