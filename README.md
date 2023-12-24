@@ -1,9 +1,10 @@
 
 <!--
 - 👋 Hi, I’m @MohanaManikantaRapolu
-- 👀 I’m a software Engineer, Competitive programmer
-- 🌱 Speacks about Python, Java, C#
+- 🌱 Speacks about Python, Design verification, SV, UVM, IP & SOC Verification
+
 - 📫 How to reach me :- manikantarapolu2000@gmail.com
+moahanamanikantarapolu@gmail.com
 -->
 
 
